@@ -2,7 +2,7 @@
 
 
 
-
+{
 import java.util.*;
 
 public class PlayfairEncrypt {
@@ -39,6 +39,6 @@ public class PlayfairEncrypt {
         System.out.println("Encrypted: "+enc(msg));
     }
 }
-
+}
 OUTPUT:
 Encrypted: WECEXIOHNOEIFIDVXBBWSIRBEW
